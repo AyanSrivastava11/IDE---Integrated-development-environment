@@ -12,7 +12,7 @@ The Web Development IDE is an online integrated development environment that all
 
 ## Demo
 
-You can access the live demo of the Web Development IDE [here](link-to-demo).
+You can access the live demo of the Web Development IDE  https://ayansrivastava11.github.io/IDE---Integrated-development-environment/
 
 ## Usage
 
