@@ -28,6 +28,19 @@ To use the Web Development IDE:
 
 5. Export your code or save it for future reference.
 
+6. Clone the repository:
+
+    ```bash
+    https://github.com/AyanSrivastava11/IDE---Integrated-development-environment.git
+    ```
+
+7. Navigate to the project directory:
+
+    ```bash
+    cd small-project
+    ```
+ 
+
 ## Contributing
 
 Contributions to the Web Development IDE project are welcome! If you would like to contribute, follow these steps:
