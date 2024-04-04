@@ -1,2 +1,5 @@
 # IDE---Integrated-development-environment
-This is IDE for html , css ,and js to run with live changes
+Go to setting of this repo Select paging from there you can find a link and open it use this projct
+
+To download
+Copy url of this repo in vscode or gitbash using commands it is ready to run in your system
